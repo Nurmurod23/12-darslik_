@@ -13,36 +13,7 @@
     src: url(../fonts/Fredoka/Fredoka-SemiBold.ttf) format(truetype);
     font-weight: 600;
 }
-@font-face {
-    font-family: "Fredoka";
-    src: url(../fonts/Fredoka/Fredoka-Bold.ttf) format(truetype);
-    font-weight: 700;
-}
-@font-face {
-    font-family: "Roboto";
-    src: url(../fonts/Roboto/Roboto-Medium.ttf) format(truetype);
-    font-weight: 400;
-}
-@font-face {
-    font-family: "Roboto";
-    src: url(../fonts/Roboto/Roboto-Regular.ttf) format(truetype);
-    font-weight: 500;
-}
-@font-face {
-    font-family: "Hind Madurai";
-    src: url(../fonts/Hind_Madurai/HindMadurai-Bold.ttf);
-    font-weight: 700;
-}
-@font-face {
-    font-family: "Hind Madurai";
-    src: url(../fonts/Hind_Madurai/HindMadurai-SemiBold.ttf);
-    font-weight: 600;
-}
-@font-face {
-    font-family: "Hind Madurai";
-    src: url(../fonts/Hind_Madurai/HindMadurai-Regular.ttf);
-    font-weight: 500;
-}
+
 *
 {
     margin: 0;
